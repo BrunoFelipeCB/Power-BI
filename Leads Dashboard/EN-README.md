@@ -7,7 +7,10 @@ Click on the title to access the report.
 ![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/d41d73a4-c91e-4b91-b2c1-502140246bc8)
 
 
-
+## You can find me at:
+&nbsp;<a href="https://www.linkedin.com/in/brunofcb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
 
 ## Company business model:
 -  Online and offline loan sales. We have a physical store where customers can be served, and we also have a sales team that serves online customers. To attract these customers, we use social media, flyers, referral strategies, as well as paid traffic. Currently, we do not use CRM, but we plan to start soon.
