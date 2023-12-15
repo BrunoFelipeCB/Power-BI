@@ -4,6 +4,11 @@ Clique no título para acessar o relatório.
 
 ![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/d41d73a4-c91e-4b91-b2c1-502140246bc8)
 
+## Você pode me encontrar em:
+&nbsp;<a href="https://www.linkedin.com/in/brunofcb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+
 ## Modelo de negócios da empresa:
 -  Venda de empréstimos online e offline. Nós temos uma
 loja física, onde os clientes podem ser atendidos, e também temos uma equipe de venda
