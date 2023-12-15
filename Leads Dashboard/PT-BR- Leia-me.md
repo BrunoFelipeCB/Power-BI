@@ -1,5 +1,7 @@
 # [Dashboard de Leads](https://app.powerbi.com/view?r=eyJrIjoiZDBlYzFmYTQtYThhNi00YzkxLWJjNDMtZmM3M2Q3OWRlZDIwIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9 )
 
+Clique no título para acessar o relatório.
+
 ![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/d41d73a4-c91e-4b91-b2c1-502140246bc8)
 
 ## Modelo de negócios da empresa:
