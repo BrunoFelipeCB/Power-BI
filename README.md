@@ -7,4 +7,4 @@ Click on the **requirements gathering** to go to the requirements gathering, cli
 
 ## Projects:
 - Leads Dashboard
-   - [Requirements gathering](https://github.com/BrunoFelipeCB/Power-BI/tree/main/Leads%20Dashboard) | [(Report)](https://app.powerbi.com/view?r=eyJrIjoiZDBlYzFmYTQtYThhNi00YzkxLWJjNDMtZmM3M2Q3OWRlZDIwIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9 )
+   - [Requirements gathering](https://github.com/BrunoFelipeCB/Power-BI/tree/main/Leads%20Dashboard) | [Report](https://app.powerbi.com/view?r=eyJrIjoiZDBlYzFmYTQtYThhNi00YzkxLWJjNDMtZmM3M2Q3OWRlZDIwIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9 )
