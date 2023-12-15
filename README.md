@@ -1,9 +1,9 @@
 # Power-BI
 Here I will leave my **Power BI** projects.
 
-**The texts and metrics within the report are in PT-BR, however, the requirements gathering section is in both EN and PT-BR.**.
+**The texts and metrics within the report are in PT-BR, however, the requirements gathering section is in both EN and PT-BR.**
 
-Click on the **requirements gathering** to go to the requirements gathering, click on **'report'** to go directly to the report
+Click on the **Requirements gathering** to go to the requirements gathering, click on **'Report'** to go directly to the report
 
 ## Projects:
 - Leads Dashboard
