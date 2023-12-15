@@ -33,6 +33,12 @@ Click on the title to access the report.
 - Quantity of leads by state;
 - Lead acquisition time;
 - Investment.
+  
+## Relacionamento entre tabelas:
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/78f65dcd-5c7a-411b-be5e-adc6d6d689f9)
+
+- The table "fMarketing" doesn't have information to correlate with the "dimEquipe".
+
 
   ## Considerations and results:
 -  The team 'Apaixonado por dados' accounts for over 70% of the revenue, with their main 'Canal de Aquisição' (Acquisition Channel) being 'Indicação'(Referral). All other Acquisition Channels have negative ROI, which may be squeezing the company's margin.
