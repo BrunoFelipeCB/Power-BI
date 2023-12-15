@@ -37,7 +37,8 @@ de leads);
 - Investimento.
   
 ## Relacionamento entre tabelas:
-![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/7617eb4a-c20f-4447-b121-0710e5ef7f33)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/afe36942-44bf-442e-ada3-5193b3ee6de8)
+
 - A tabela "fMarketing" não tem informações para correlacionar com a equipe.
 
 
