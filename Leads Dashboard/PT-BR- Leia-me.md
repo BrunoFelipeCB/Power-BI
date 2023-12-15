@@ -35,6 +35,11 @@ de leads);
 - Quantidade de leads por Estado;
 - Horário de captação dos leads;
 - Investimento.
+  
+## Relacionamento entre tabelas:
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/7617eb4a-c20f-4447-b121-0710e5ef7f33)
+- A tabela "fMarketing" não tem informações para correlacionar com a equipe.
+
 
 ## Considerções e resultados:
 - A equipe 'Apaixonado por Dados' detém mais de 70% da receita, com seu principal 'Canal de Aquisição' sendo 'Indicação'.
