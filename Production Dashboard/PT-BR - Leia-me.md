@@ -28,6 +28,18 @@ Clique no título para acessar o relatório.
 - Disponibilidade: (Horas produtivas / Horas trabalhadas)
 - Quantidade de Produtos por Dia por Operador:
 - Média de Tempo Gasto por Operador por Ocorrência:
+### Metadados:
+- "Numero de ordem" = Id da ordem
+- "Operador" = Nome do Operador
+- "Produto" = Nome do produto
+- "Ocorrencia" = Nome da Ocorrência
+- "data do inicio' = Data de Inicio da produção do produto
+- "data do fim" = Data do fim da produção do produto
+- "hora do inicio"  = Hora de Inicio da produção do produto
+- "hora do fim" = Hora do fim da produção do produto
+- "Total de horas" = Diferença em horas entre Hora do inicio e hora do fim
+- "qnt produzida" = Quantidade produzida sem defeito.
+- "qnt rejeitada" = Quantidade produzida com defeito.
 
 ## Simulador de Produção:
 ![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/4e505e36-3627-4f78-ace2-33426f59c1c8)
