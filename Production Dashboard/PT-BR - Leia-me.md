@@ -1,8 +1,9 @@
-# [Dashboard de Produção]()
+# [Dashboard de Produção](https://app.powerbi.com/view?r=eyJrIjoiOThhODFkY2EtN2VkZC00MzZhLTk5Y2EtZGZhMzkwOThhOWExIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9)
 
 Clique no título para acessar o relatório.
 
-![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/49f95ad5-b46b-4d33-89d1-795f4b80e903)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/05a515ce-ae85-44e5-9863-5446bbb9fa21)
+
 
 
 ## Você pode me encontrar em:
@@ -27,22 +28,30 @@ Clique no título para acessar o relatório.
 - Disponibilidade: (Horas produtivas / Horas trabalhadas)
 - Quantidade de Produtos por Dia por Operador:
 - Média de Tempo Gasto por Operador por Ocorrência:
+
+## Simulador de Produção:
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/4e505e36-3627-4f78-ace2-33426f59c1c8)
+
+
+
+- Integrado ao nosso modelo de negócio, apresentamos um simulador dedicado à produção. Utilizando dados históricos, especialmente a Taxa de Eficiência e a Produção Total, este recurso oferece a capacidade de projetar a produção futura.
+   - Neste cenário, mantemos a produção atual, concentrando nossos esforços na melhoria da taxa de eficiência da empresa. A estratégia visa aprimorar a utilização dos recursos existentes, otimizando processos para aumentar a produção de peças boas. Essa abordagem busca elevar a qualidade sem aumentar a demanda, visando eficiência e excelência operacional.
+   - No segundo cenário, mantemos a taxa de eficiência atual, mas buscamos expandir a produção. A estratégia concentra-se em atender a uma demanda crescente, mantendo a qualidade já estabelecida. Com a produção elevada, esperamos impulsionar o faturamento sem comprometer a eficiência, proporcionando crescimento sustentável.
+ 
   
 ## Relacionamento entre tabelas:
-![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/de658637-3cd2-4486-817d-2cbe646f903f)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/ae4d8459-382b-431a-afbd-f4666bd49550)
+
 
 
 
 ## Considerções e resultados:
-- A equipe 'Apaixonado por Dados' detém mais de 70% da receita, com seu principal 'Canal de Aquisição' sendo 'Indicação'.
-- Todos os outros 'Canais de Aquisição' têm ROI negativo, o que pode estar comprimindo a margem da empresa.
-- A equipe 'Seneca' possui a menor quantidade de leads, o maior custo por lead, o menor ticket médio e a pior receita.
-
-- Cerca de 19% dos leads são inválidos ou apresentam erros de registro.
-
-- O ticket médio e o ROI da empresa estão inflados. Se excluirmos o Canal de Aquisição "Indicação", por ser um canal de vendas atípico, o ticket médio da empresa é de aproximadamente R$ 215 (uma redução de 66%), e o ROI é de aproximadamente -53% (uma redução de 186%), representando níveis críticos.
+- As duas maiores ocorrências acontecem no processo de preparação da máquina e no controle de qualidade; é possível que ambos os casos estejam interligados.
+- Em Agosto, a empresa teve 99,34% de eficiência, mantendo essa eficiência em 1 ano seria possivel produzir 580 produtos a mais.
+- Cerca de 60% das ocorrências do produto "Home Theater System 4.1 Channel M412 Brown" são relacionados a controle de qualidade.
+- Entender porque os meses de setembro e outubro possuem produção cerca de 50% menor que o topo.
 
 ### Recomendações:
-- Considere a possibilidade de reduzir o marketing em algumas plataformas (como Facebook e Google ADS).
-- Realize uma reunião com as equipes para entender por que a equipe 'Apaixonados por Dados' tem resultados tão superiores e tente replicar esses resultados em outras equipes e estados.
-- Tente melhorar o tempo de conversão nas lojas físicas por meio de promoções ou contatos com clientes.
+- Considere a possibilidade de entender por que alguns produtos, como "Zoo Tycoon Marine Mania 2009 E160", possuem poucos produtos rejeitados em comparação com os demais.
+- Verifique por que existem tantas ocorrências com "Preparação de máquina" e como reduzir.
+- Entender porque o "controle de qualidade" possui tantas ocorrências.
