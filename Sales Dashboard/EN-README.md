@@ -2,7 +2,8 @@
 
 Click on the title to access the report.
 
-![image](https://github.com/BrunoFelipeCB/Vendas/assets/99086238/f0b8786d-c7b2-4de4-9090-cef0219ab578)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/256ecffd-4562-4af8-8e7e-4d179909106c)
+
 
 
 
@@ -28,7 +29,8 @@ Click on the title to access the report.
 - Revenue by Product Size
   
 ## Relationship Between Tables:
-(![image](https://github.com/BrunoFelipeCB/Vendas/assets/99086238/c834404c-2144-419f-80bc-58edbce4e40d)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/6a96bc0b-d576-4e3c-9b6d-35d17d8f6f40)
+
 
 
 ## Considerations and Results:
