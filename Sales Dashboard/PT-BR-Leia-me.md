@@ -2,7 +2,8 @@
 
 Clique no título para acessar o relatório.
 
-![image](https://github.com/BrunoFelipeCB/Vendas/assets/99086238/f0b8786d-c7b2-4de4-9090-cef0219ab578)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/465532a0-fbd6-45fb-8f0a-d02a463df61b)
+
 
 
 
@@ -28,7 +29,8 @@ Clique no título para acessar o relatório.
 - Faturamento por tamanho do produto
   
 ## Relacionamento entre tabelas:
-(![image](https://github.com/BrunoFelipeCB/Vendas/assets/99086238/c834404c-2144-419f-80bc-58edbce4e40d)
+![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/16cc71f5-630d-4f3e-93be-a512bfd53f6a)
+
 
 
 ## Considerções e resultados:
