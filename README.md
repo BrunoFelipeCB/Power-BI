@@ -2,8 +2,11 @@
 Here I will leave my **Power BI** projects.
 
 **The texts and metrics within the report are in PT-BR, however, the requirements gathering section is in both EN and PT-BR.**
+### EN:
+Click on **Requirements gathering** to go to the requirements gathering, and then choose the 'EN-ReadME', or click on **Report** to go directly to the report.
 
-Click on the **'Requirements gathering'** to go to the requirements gathering, click on **'Report'** to go directly to the report
+### PT
+Clique em **Requirements gathering** para ir à coleta de requisitos e depois escolha o 'PT-BR-Leia-ME', ou clique em **Report** para ir diretamente ao relatório.
 
 ## Projects:
 - Leads Dashboard
