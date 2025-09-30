@@ -1,8 +1,9 @@
-# [Dashboard de Vendas](https://app.powerbi.com/groups/me/reports/d745d77d-07be-4c1d-9f85-d8de4857fbc2/ReportSection?experience=power-bi)
+# [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiZTFmMjFjYmUtZTdkYy00NWEyLWFiYTYtYmE0OTcwNWQ2ZDYwIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9)
 
 Clique no título para acessar o relatório.
 
-![image](https://app.powerbi.com/view?r=eyJrIjoiZTFmMjFjYmUtZTdkYy00NWEyLWFiYTYtYmE0OTcwNWQ2ZDYwIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9)
+<img width="856" height="478" alt="image" src="https://github.com/user-attachments/assets/f62bc331-884f-4eec-82c3-b8ed873bc929" />
+
 
 
 
