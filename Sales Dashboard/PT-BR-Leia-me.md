@@ -2,7 +2,7 @@
 
 Clique no título para acessar o relatório.
 
-![image](https://github.com/BrunoFelipeCB/Power-BI/assets/99086238/465532a0-fbd6-45fb-8f0a-d02a463df61b)
+![image](https://app.powerbi.com/view?r=eyJrIjoiZTFmMjFjYmUtZTdkYy00NWEyLWFiYTYtYmE0OTcwNWQ2ZDYwIiwidCI6ImZhN2FiZjMwLTExNzgtNDAyYy1hNDdhLTlmNzA3YWJmMDFhYSJ9)
 
 
 
